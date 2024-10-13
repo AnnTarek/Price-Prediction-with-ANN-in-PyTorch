@@ -3,19 +3,19 @@
 This project builds a linear regression model using an Artificial Neural Network (ANN) in PyTorch to predict property prices based on area. 
 
 **Dataset Description**:
-This Dataset consists of 12 features and an output. The 12 features are:
-Area: The area of the house (numerical high ranges)
-Bedrooms: The number of bedrooms in the house (numerical)
-Bathrooms: Number of bathrooms in the house (numerical)
-Stories: How many stories does this house have (numerical)
-Mainroad: Does the house have a main road or not (non-numerical)
-Guestroom: Whether there a guest room (non-numerical)
-Basement: Whether there is a basement (non-numerical)
-Hotwaterheating: whether there is hot water in the house or not (non-numerical)
-Airconditioning: if there is an airconditioning it is a yes (non-numerical)
-Parking: how many parking (numerical)
-Prefarea: there is a pref area or not (non-numerical)
-Furnishingstatus: Whether the house is furnished, semi-furnished, or not furnished (non-numerical)
+This Dataset consists of 12 features and an output. The 12 features are: <br> 
+Area: The area of the house (numerical high ranges) <br> 
+Bedrooms: The number of bedrooms in the house (numerical) <br> 
+Bathrooms: Number of bathrooms in the house (numerical) <br> 
+Stories: How many stories does this house have (numerical)<br> 
+Mainroad: Does the house have a main road or not (non-numerical) <br> 
+Guestroom: Whether there a guest room (non-numerical) <br> 
+Basement: Whether there is a basement (non-numerical) <br> 
+Hotwaterheating: whether there is hot water in the house or not (non-numerical) <br> 
+Airconditioning: if there is an airconditioning it is a yes (non-numerical) <br> 
+Parking: how many parking (numerical) <br> 
+Prefarea: there is a pref area or not (non-numerical) <br> 
+Furnishingstatus: Whether the house is furnished, semi-furnished, or not furnished (non-numerical) <br> 
 
 The output of the dataset is the prices of the house and that's our target
 
